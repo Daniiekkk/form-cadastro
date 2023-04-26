@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to left, rgb(87, 86, 86),rgb(139, 139, 139),rgb(187, 187, 187));
+}
+#cadastro1{
+    width:360px;
+    height: 650px;
+    box-shadow: 3px 4px 5px 6px rgb(95, 94, 94);
+    position: absolute;
+    align-items: center;
+    left:150px;
+    bottom: 30px;
+    background: linear-gradient(to left, rgb(107, 107, 107),rgb(160, 160, 160),rgb(199, 199, 199));
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.headertxt{
+    font-size: 40px;
+}
