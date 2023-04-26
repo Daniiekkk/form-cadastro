@@ -2,8 +2,8 @@ body{
     background: linear-gradient(to left, rgb(87, 86, 86),rgb(139, 139, 139),rgb(187, 187, 187));
 }
 #cadastro1{
-    width:360px;
-    height: 650px;
+    width:350px;
+    height: 740px;
     box-shadow: 3px 4px 5px 6px rgb(95, 94, 94);
     position: absolute;
     align-items: center;
